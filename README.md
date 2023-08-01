@@ -14,9 +14,9 @@ Similarly in OOP(Object Oriented Programming) image,audio,video or anything can 
 So, what's it's use in languages like python ??
 If you have ever coded in C you first have to declare what type of variable you are using.
 
-like In C :
-    int i;
-    i = 1;
+like In C : \n
+    int i; \n
+    i = 1; \n
 
 In this above small program you have to declare what type of identifier you are using
 and If you see clearly you are getting restricted in this case suppose you have to store
